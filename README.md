@@ -11,7 +11,7 @@
 
 git config --list --local 
 git init
-git add
+git add (git add .)
 git commit -m
 git push
 git ignore = don't track file
