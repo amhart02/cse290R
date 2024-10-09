@@ -20,9 +20,3 @@ git remove = stop tracking file
 git config --list --show-origin
 git remote add origin (link)
 git clone (link)
-
-test
-testing 2
-testing 3
-testing 4
-testing 5 please workkkk
