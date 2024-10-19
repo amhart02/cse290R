@@ -4,7 +4,7 @@ body {
 
 /* Page background */
 .background {
-  background-image: url("./images/site-background2.jpg");
+  background-image: url("images/site-background2.jpg");
   background-size: cover;
   background-repeat: repeat;
   min-height: 100vh;
