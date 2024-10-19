@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+}
+
+/* Page background */
+.background {
+  background-image: url("./images/site-background2.jpg");
+  background-size: cover;
+  background-repeat: repeat;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 50px 0;
+}
+
+.container {
+  max-width: 1000px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 8px;
+  width: 100%;
+}
